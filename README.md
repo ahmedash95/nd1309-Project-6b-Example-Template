@@ -1,14 +1,24 @@
 # Write up
 
-[SupplyChain Contract](https://rinkeby.etherscan.io/address/0x194f63A7198de8d30AE4e2bE82a8A4726bfCAb9a)
+[SupplyChain Contract](https://rinkeby.etherscan.io/address/0x51Cd5a3c7520B81975c576416498c631E2cB0942)
 
-[ConsumerRole Contract]((https://rinkeby.etherscan.io/address/0xF248c1974790e1f1757fcdeA023C57C06140c480)
+Hash: 0xe997110a9368cc578cb2a88cf8ef9c0c95f4cc66e824c7015177653ae8014632
 
-[RetailerRole Contract]((https://rinkeby.etherscan.io/address/0xa6d821521314b1028E1A0907ea785C28867B8825)
+[ConsumerRole Contract](https://rinkeby.etherscan.io/address/0xbEF504cC6B24ffc62f0aa0b05C36371Ac83ABcB8)
 
-[DistributorRole Contract]((https://rinkeby.etherscan.io/address/0x5a3B0849A07C65b54A4965800B2Eb3eBeB4115a5)
+Hash: 0x3ef2f8e55686352c575ed5231a8bc911fed86571da2e8dbf71d099dd46bd1dff
 
-[FarmerRole Contract]((https://rinkeby.etherscan.io/address/0x2634177a4Ce5c2dE55ed73EFC02D409EEb47CAdc)
+[RetailerRole Contract](https://rinkeby.etherscan.io/address/0x6302F9626A2481DD81Fe784BBC0991695b184eCC)
+
+Hash: 0x4e92670c1da64aa946e4a167ec80d8a1b1d61d34556d01462013de62c63055d5
+
+[DistributorRole Contract](https://rinkeby.etherscan.io/address/0xaf51Cc101F9251C5bFEFaEaf5a960A22eA44744D)
+
+Hash:0x5aa1532fe87cc64d3dc1aeb12c3abbcfa8bd7711924dae33b40f2373ed0cc7f8
+
+[FarmerRole Contract](https://rinkeby.etherscan.io/address/0x8172B093E7385D5349fABCfB1D007f9A4d6da1B2)
+
+Hash: 0x9ca3185f2043a020e3440602b56bd1f9f980f22f10ff2059820ce1c161f17c07
 
 # Supply chain & data auditing
 
